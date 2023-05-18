@@ -1,0 +1,416 @@
+[
+ {
+  "numclient": 1,
+  "nomclient": "BOUROUBI",
+  "prenomclient": "Taous",
+  "email": "BOUROUBI@gmail.com"
+ },
+ {
+  "numclient": 2,
+  "nomclient": "BOUZIDI",
+  "prenomclient": "AMEL",
+  "email": "BOUZIDI@gmail.com"
+ },
+ {
+  "numclient": 3,
+  "nomclient": "LACHEMI",
+  "prenomclient": "Bouzid",
+  "email": "LACHEMI@gmail.com"
+ },
+ {
+  "numclient": 4,
+  "nomclient": "BOUCHEMLA",
+  "prenomclient": "Elias",
+  "email": "BOUCHEMLA@gmail.com"
+ },
+ {
+  "numclient": 5,
+  "nomclient": "HADJ",
+  "prenomclient": "Zouhir",
+  "email": "HADJ@gmail.com"
+ },
+ {
+  "numclient": 6,
+  "nomclient": "OUSSEDIK",
+  "prenomclient": "Hakim",
+  "email": "OUSSEDIK@gmail.com"
+ },
+ {
+  "numclient": 7,
+  "nomclient": "AAKOUB",
+  "prenomclient": "Fatiha",
+  "email": "AAKOUB@gmail.com"
+ },
+ {
+  "numclient": 8,
+  "nomclient": "ABAD",
+  "prenomclient": "Abdelhamid",
+  "email": "ABAD@gmail.com"
+ },
+ {
+  "numclient": 9,
+  "nomclient": "ABADA",
+  "prenomclient": "Mohamed",
+  "email": "ABADA@gmail.com"
+ },
+ {
+  "numclient": 10,
+  "nomclient": "ABAYAHIA",
+  "prenomclient": "Abdelkader",
+  "email": "ABAYAHIA@gmail.com"
+ },
+ {
+  "numclient": 11,
+  "nomclient": "ABBACI",
+  "prenomclient": "Abdelmadjid",
+  "email": "ABBACI@gmail.com"
+ },
+ {
+  "numclient": 12,
+  "nomclient": "ABBAS",
+  "prenomclient": "Samira",
+  "email": "ABBAS@gmail.com"
+ },
+ {
+  "numclient": 13,
+  "nomclient": "ABBOU",
+  "prenomclient": "Mohamed",
+  "email": "ABBOU@gmail.com"
+ },
+ {
+  "numclient": 14,
+  "nomclient": "ABDELAZIZ",
+  "prenomclient": "Ahmed",
+  "email": "ABDELAZIZ@gmail.com"
+ },
+ {
+  "numclient": 15,
+  "nomclient": "ABDELMOUMEN",
+  "prenomclient": "Nassima",
+  "email": "ABDELMOUMEN@gmail.com"
+ },
+ {
+  "numclient": 16,
+  "nomclient": "ABDELOUAHAB",
+  "prenomclient": "OUAHIBA",
+  "email": "ABDELOUAHAB@gmail.com"
+ },
+ {
+  "numclient": 17,
+  "nomclient": "ABDEMEZIANE",
+  "prenomclient": "Madjid",
+  "email": "ABDEMEZIANE@gmail.com"
+ },
+ {
+  "numclient": 18,
+  "nomclient": "ABERKANE",
+  "prenomclient": "Aicha",
+  "email": "ABERKANE@gmail.com"
+ },
+ {
+  "numclient": 19,
+  "nomclient": "AZOUG",
+  "prenomclient": "Dalila",
+  "email": "AZOUG@gmail.com"
+ },
+ {
+  "numclient": 20,
+  "nomclient": "BENOUADAH",
+  "prenomclient": "Mohammed",
+  "email": "BENOUADAH@gmail.com"
+ },
+ {
+  "numclient": 21,
+  "nomclient": "ACHAIBOU",
+  "prenomclient": "Rachid",
+  "email": "ACHAIBOU@gmail.com"
+ },
+ {
+  "numclient": 22,
+  "nomclient": "ADDAD",
+  "prenomclient": "Fadila",
+  "email": "ADDAD@gmail.com"
+ },
+ {
+  "numclient": 23,
+  "nomclient": "AGGOUN",
+  "prenomclient": "Khadidja",
+  "email": "AGGOUN@gmail.com"
+ },
+ {
+  "numclient": 24,
+  "nomclient": "AISSAT",
+  "prenomclient": "Salima",
+  "email": "AISSAT@gmail.com"
+ },
+ {
+  "numclient": 25,
+  "nomclient": "AMARA",
+  "prenomclient": "Dahbia",
+  "email": "AMARA@gmail.com"
+ },
+ {
+  "numclient": 26,
+  "nomclient": "AROUEL",
+  "prenomclient": "Leila",
+  "email": "AROUEL@gmail.com"
+ },
+ {
+  "numclient": 27,
+  "nomclient": "BAALI",
+  "prenomclient": "Souad",
+  "email": "BAALI@gmail.com"
+ },
+ {
+  "numclient": 28,
+  "nomclient": "BABACI",
+  "prenomclient": "Mourad",
+  "email": "BABACI@gmail.com"
+ },
+ {
+  "numclient": 29,
+  "nomclient": "BACHA",
+  "prenomclient": "Nadia",
+  "email": "BACHA@gmail.com"
+ },
+ {
+  "numclient": 30,
+  "nomclient": "BAHBOUH",
+  "prenomclient": "Naima",
+  "email": "BAHBOUH@gmail.com"
+ },
+ {
+  "numclient": 31,
+  "nomclient": "BADI",
+  "prenomclient": "Hatem",
+  "email": "BADI@gmail.com"
+ },
+ {
+  "numclient": 32,
+  "nomclient": "BAKIR",
+  "prenomclient": "ADEL",
+  "email": "BAKIR@gmail.com"
+ },
+ {
+  "numclient": 33,
+  "nomclient": "BALI",
+  "prenomclient": "Malika",
+  "email": "BALI@gmail.com"
+ },
+ {
+  "numclient": 34,
+  "nomclient": "BASSI",
+  "prenomclient": "Fatima",
+  "email": "BASSI@gmail.com"
+ },
+ {
+  "numclient": 35,
+  "nomclient": "BEHADI",
+  "prenomclient": "Youcef",
+  "email": "BEHADI@gmail.com"
+ },
+ {
+  "numclient": 36,
+  "nomclient": "BEKKAT",
+  "prenomclient": "Hadia",
+  "email": "BEKKAT@gmail.com"
+ },
+ {
+  "numclient": 37,
+  "nomclient": "BELABES",
+  "prenomclient": "Abdelkader",
+  "email": "BELABES@gmail.com"
+ },
+ {
+  "numclient": 38,
+  "nomclient": "BELAKERMI",
+  "prenomclient": "Mohammed",
+  "email": "BELAKERMI@gmail.com"
+ },
+ {
+  "numclient": 39,
+  "nomclient": "BELGHALI",
+  "prenomclient": "Mohammed",
+  "email": "BELGHALI@gmail.com"
+ },
+ {
+  "numclient": 40,
+  "nomclient": "BELHAMIDI",
+  "prenomclient": "Mustapha",
+  "email": "BELHAMIDI@gmail.com"
+ },
+ {
+  "numclient": 41,
+  "nomclient": "BELKACEMI",
+  "prenomclient": "Hocine",
+  "email": "BELKACEMI@gmail.com"
+ },
+ {
+  "numclient": 42,
+  "nomclient": "BELKOUT",
+  "prenomclient": "Tayeb",
+  "email": "BELKOUT@gmail.com"
+ },
+ {
+  "numclient": 43,
+  "nomclient": "RAHALI",
+  "prenomclient": "Ahcene",
+  "email": "RAHALI@gmail.com"
+ },
+ {
+  "numclient": 44,
+  "nomclient": "FERAOUN",
+  "prenomclient": "Houria",
+  "email": "FERAOUN@gmail.com"
+ },
+ {
+  "numclient": 45,
+  "nomclient": "TERKI",
+  "prenomclient": "Amina",
+  "email": "TERKI@gmail.com"
+ },
+ {
+  "numclient": 46,
+  "nomclient": "CHAOUI",
+  "prenomclient": "Farid",
+  "email": "CHAOUI@gmail.com"
+ },
+ {
+  "numclient": 47,
+  "nomclient": "BENDALI",
+  "prenomclient": "Hacine",
+  "email": "BENDALI@gmail.com"
+ },
+ {
+  "numclient": 48,
+  "nomclient": "CHAKER",
+  "prenomclient": "Nadia",
+  "email": "CHAKER@gmail.com"
+ },
+ {
+  "numclient": 49,
+  "nomclient": "BELHAMIDI",
+  "prenomclient": "Mustapha",
+  "email": "BELHAMIDI@gmail.com"
+ },
+ {
+  "numclient": 50,
+  "nomclient": "BELKACEMI",
+  "prenomclient": "Hocine",
+  "email": "BELKACEMI@gmail.com"
+ },
+ {
+  "numclient": 51,
+  "nomclient": "BELKOUT",
+  "prenomclient": "Tayeb",
+  "email": "BELKOUT@gmail.com"
+ },
+ {
+  "numclient": 52,
+  "nomclient": "RAHALI",
+  "prenomclient": "Ahcene",
+  "email": "RAHALI@gmail.com"
+ },
+ {
+  "numclient": 53,
+  "nomclient": "FERAOUN",
+  "prenomclient": "Houria",
+  "email": "FERAOUN@gmail.com"
+ },
+ {
+  "numclient": 54,
+  "nomclient": "TERKI",
+  "prenomclient": "Amina",
+  "email": "TERKI@gmail.com"
+ },
+ {
+  "numclient": 55,
+  "nomclient": "CHAOUI",
+  "prenomclient": "Farid",
+  "email": "CHAOUI@gmail.com"
+ },
+ {
+  "numclient": 56,
+  "nomclient": "BENDALI",
+  "prenomclient": "Hacine",
+  "email": "BENDALI@gmail.com"
+ },
+ {
+  "numclient": 57,
+  "nomclient": "CHAKER",
+  "prenomclient": "Nadia",
+  "email": "CHAKER@gmail.com"
+ },
+ {
+  "numclient": 58,
+  "nomclient": "BOULARAS",
+  "prenomclient": "Fatima",
+  "email": "BOULARAS@gmail.com"
+ },
+ {
+  "numclient": 59,
+  "nomclient": "IGOUDJIL",
+  "prenomclient": "Redouane",
+  "email": "IGOUDJIL@gmail.com"
+ },
+ {
+  "numclient": 60,
+  "nomclient": "GHEZALI",
+  "prenomclient": "Lakhdar",
+  "email": "GHEZALI@gmail.com"
+ },
+ {
+  "numclient": 61,
+  "nomclient": "KOULA",
+  "prenomclient": "Brahim",
+  "email": "KOULA@gmail.com"
+ },
+ {
+  "numclient": 62,
+  "nomclient": "BELAID",
+  "prenomclient": "Layachi",
+  "email": "BELAID@gmail.com"
+ },
+ {
+  "numclient": 63,
+  "nomclient": "CHALABI",
+  "prenomclient": "Mourad",
+  "email": "CHALABI@gmail.com"
+ },
+ {
+  "numclient": 64,
+  "nomclient": "MOHAMMEDI",
+  "prenomclient": "Mustapha",
+  "email": "MOHAMMEDI@gmail.com"
+ },
+ {
+  "numclient": 65,
+  "nomclient": "FEKAR",
+  "prenomclient": "Abdelaziz",
+  "email": "FEKAR@gmail.com"
+ },
+ {
+  "numclient": 66,
+  "nomclient": "SAIDOUNI",
+  "prenomclient": "Wafa",
+  "email": "SAIDOUNI@gmail.com"
+ },
+ {
+  "numclient": 67,
+  "nomclient": "Yalaoui",
+  "prenomclient": "Lamia",
+  "email": "Yalaoui@gmail.com"
+ },
+ {
+  "numclient": 68,
+  "nomclient": "AYATA",
+  "prenomclient": "Samia",
+  "email": "AYATA@gmail.com"
+ },
+ {
+  "numclient": 69,
+  "nomclient": "TEBIBEL",
+  "prenomclient": "Nabila",
+  "email": "TEBIBEL@gmail.com"
+ }
+]

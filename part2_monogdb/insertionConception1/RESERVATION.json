@@ -1,0 +1,266 @@
+[
+ {
+  "numres": 1,
+  "numclient": 40,
+  "numchambre": 23,
+  "numhotel": 1,
+  "Datearr": "05\/09\/2022",
+  "Datedep": "05\/13\/2022"
+ },
+ {
+  "numres": 2,
+  "numclient": 40,
+  "numchambre": 8,
+  "numhotel": 2,
+  "Datearr": "05\/01\/2022",
+  "Datedep": "05\/05\/2022"
+ },
+ {
+  "numres": 3,
+  "numclient": 14,
+  "numchambre": 21,
+  "numhotel": 4,
+  "Datearr": "05\/12\/2022",
+  "Datedep": "05\/13\/2022"
+ },
+ {
+  "numres": 4,
+  "numclient": 1,
+  "numchambre": 1,
+  "numhotel": 5,
+  "Datearr": "05\/11\/2022",
+  "Datedep": "05\/15\/2022"
+ },
+ {
+  "numres": 5,
+  "numclient": 2,
+  "numchambre": 2,
+  "numhotel": 5,
+  "Datearr": "04\/11\/2022",
+  "Datedep": "04\/18\/2022"
+ },
+ {
+  "numres": 6,
+  "numclient": 6,
+  "numchambre": 2,
+  "numhotel": 5,
+  "Datearr": "04\/05\/2022",
+  "Datedep": "04\/06\/2022"
+ },
+ {
+  "numres": 7,
+  "numclient": 112,
+  "numchambre": 1,
+  "numhotel": 5,
+  "Datearr": "06\/07\/2022",
+  "Datedep": "06\/10\/2022"
+ },
+ {
+  "numres": 8,
+  "numclient": 35,
+  "numchambre": 2,
+  "numhotel": 5,
+  "Datearr": "05\/17\/2022",
+  "Datedep": "05\/23\/2022"
+ },
+ {
+  "numres": 9,
+  "numclient": 13,
+  "numchambre": 2,
+  "numhotel": 6,
+  "Datearr": "05\/02\/2022",
+  "Datedep": "05\/10\/2022"
+ },
+ {
+  "numres": 10,
+  "numclient": 14,
+  "numchambre": 2,
+  "numhotel": 6,
+  "Datearr": "04\/28\/2022",
+  "Datedep": "05\/01\/2022"
+ },
+ {
+  "numres": 11,
+  "numclient": 23,
+  "numchambre": 1,
+  "numhotel": 6,
+  "Datearr": "05\/04\/2022",
+  "Datedep": "05\/09\/2022"
+ },
+ {
+  "numres": 12,
+  "numclient": 35,
+  "numchambre": 2,
+  "numhotel": 6,
+  "Datearr": "05\/27\/2022",
+  "Datedep": "06\/02\/2022"
+ },
+ {
+  "numres": 13,
+  "numclient": 6,
+  "numchambre": 30,
+  "numhotel": 7,
+  "Datearr": "04\/27\/2022",
+  "Datedep": "05\/01\/2022"
+ },
+ {
+  "numres": 14,
+  "numclient": 28,
+  "numchambre": 100,
+  "numhotel": 8,
+  "Datearr": "04\/30\/2022",
+  "Datedep": "05\/03\/2022"
+ },
+ {
+  "numres": 15,
+  "numclient": 16,
+  "numchambre": 301,
+  "numhotel": 8,
+  "Datearr": "05\/01\/2022",
+  "Datedep": "05\/03\/2022"
+ },
+ {
+  "numres": 16,
+  "numclient": 37,
+  "numchambre": 302,
+  "numhotel": 8,
+  "Datearr": "05\/12\/2022",
+  "Datedep": "05\/10\/2022"
+ },
+ {
+  "numres": 17,
+  "numclient": 28,
+  "numchambre": 3,
+  "numhotel": 9,
+  "Datearr": "04\/13\/2022",
+  "Datedep": "04\/14\/2022"
+ },
+ {
+  "numres": 18,
+  "numclient": 20,
+  "numchambre": 2,
+  "numhotel": 9,
+  "Datearr": "05\/03\/2022",
+  "Datedep": "05\/20\/2022"
+ },
+ {
+  "numres": 19,
+  "numclient": 15,
+  "numchambre": 3,
+  "numhotel": 9,
+  "Datearr": "04\/15\/2022",
+  "Datedep": "04\/20\/2022"
+ },
+ {
+  "numres": 20,
+  "numclient": 6,
+  "numchambre": 100,
+  "numhotel": 10,
+  "Datearr": "06\/11\/2022",
+  "Datedep": "06\/14\/2022"
+ },
+ {
+  "numres": 21,
+  "numclient": 12,
+  "numchambre": 8,
+  "numhotel": 11,
+  "Datearr": "05\/09\/2022",
+  "Datedep": "05\/10\/2022"
+ },
+ {
+  "numres": 22,
+  "numclient": 3,
+  "numchambre": 9,
+  "numhotel": 11,
+  "Datearr": "04\/06\/2022",
+  "Datedep": "04\/08\/2022"
+ },
+ {
+  "numres": 23,
+  "numclient": 7,
+  "numchambre": 7,
+  "numhotel": 11,
+  "Datearr": "05\/07\/2022",
+  "Datedep": "05\/12\/2006"
+ },
+ {
+  "numres": 24,
+  "numclient": 47,
+  "numchambre": 20,
+  "numhotel": 11,
+  "Datearr": "04\/04\/2022",
+  "Datedep": "04\/08\/2022"
+ },
+ {
+  "numres": 25,
+  "numclient": 44,
+  "numchambre": 5,
+  "numhotel": 11,
+  "Datearr": "04\/07\/2022",
+  "Datedep": "05\/07\/2022"
+ },
+ {
+  "numres": 26,
+  "numclient": 40,
+  "numchambre": 9,
+  "numhotel": 11,
+  "Datearr": "04\/11\/2022",
+  "Datedep": "04\/14\/2022"
+ },
+ {
+  "numres": 27,
+  "numclient": 22,
+  "numchambre": 25,
+  "numhotel": 11,
+  "Datearr": "04\/04\/2022",
+  "Datedep": "04\/05\/2022"
+ },
+ {
+  "numres": 28,
+  "numclient": 26,
+  "numchambre": 25,
+  "numhotel": 11,
+  "Datearr": "04\/22\/2022",
+  "Datedep": "04\/26\/2022"
+ },
+ {
+  "numres": 29,
+  "numclient": 29,
+  "numchambre": 1,
+  "numhotel": 11,
+  "Datearr": "04\/04\/2022",
+  "Datedep": "04\/08\/2022"
+ },
+ {
+  "numres": 30,
+  "numclient": 29,
+  "numchambre": 205,
+  "numhotel": 12,
+  "Datearr": "05\/04\/2022",
+  "Datedep": "05\/09\/2022"
+ },
+ {
+  "numres": 31,
+  "numclient": 35,
+  "numchambre": 101,
+  "numhotel": 12,
+  "Datearr": "04\/04\/2022",
+  "Datedep": "05\/06\/2022"
+ },
+ {
+  "numres": 32,
+  "numclient": 37,
+  "numchambre": 202,
+  "numhotel": 12,
+  "Datearr": "05\/11\/2022",
+  "Datedep": "05\/18\/2022"
+ },
+ {
+  "numres": 33,
+  "numclient": 80,
+  "numchambre": 302,
+  "numhotel": 13,
+  "Datearr": "05\/07\/2022",
+  "Datedep": "05\/12\/2022"
+ }
+]

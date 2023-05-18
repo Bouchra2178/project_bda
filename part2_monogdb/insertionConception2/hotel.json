@@ -1,0 +1,98 @@
+[{"numhotel": 1,"nomhotel": "Renaissance", "ville": "Tlemcen", "etoiles": 5,
+ "chambre": [{"numchambre": 10, "etage": 1, "type": "simple", "prixnuit": 7100}, {"numchambre": 11, "etage": 1, "type": "simple", "prixnuit": 7100}, {"numchambre": 12, "etage": 1, "type": "double", "prixnuit": 8800}, {"numchambre": 13, "etage": 1, "type": "simple", "prixnuit": 6200}, {"numchambre": 20, "etage": 2, "type": "double", "prixnuit": 9000}, {"numchambre": 21, "etage": 2, "type": "simple", "prixnuit": 6800}, {"numchambre": 22, "etage": 2, "type": "simple", "prixnuit": 6800}, {"numchambre": 23, "etage": 2, "type": "double", "prixnuit": 8900}],
+"reservation":[{"numres":1,"numclient":40,"numchambre":23,"Datearr":"05/09/2022","Datedep":"05/13/2022"}],"evaluation":[{"numeval":1,"date":"11/05/2022","note":5,"numclient":40}]},
+{"numhotel":2,"nomhotel":"Seybouse","ville":"Annaba","etoiles":3,"chambre":[{"numchambre":1,"etage":1,"type":"simple","prixnuit":4500},{"numchambre":2,"etage":1,"type":"simple","prixnuit":4800},{"numchambre":3,"etage":1,"type":"double","prixnuit":7100},{"numchambre":4,"etage":1,"type":"simple","prixnuit":5400},{"numchambre":5,"etage":2,"type":"double","prixnuit":8600},{"numchambre":6,"etage":2,"type":"simple","prixnuit":5800},{"numchambre":7,"etage":2,"type":"simple","prixnuit":580},{"numchambre":8,"etage":2,"type":"double","prixnuit":8600},{"numchambre":9,"etage":3,"type":"suite","prixnuit":16000},{"numchambre":10,"etage":3,"type":"suite","prixnuit":16500}],
+"reservation":[{"numres":2,"numclient":40,"numchambre":8,"Datearr":"05/01/2022","Datedep":"05/05/2022"}],"evaluation":[{"numeval":7,"date":"28/04/2022","note":6,"numclient":40}]},
+{"numhotel":3,"nomhotel":"Hôtel Novotel","ville":"Constantine","etoiles":4,"chambre":[ {"numchambre": 101,"etage": 1,"type": "simple","prixnuit": 3200}, {"numchambre": 102,"etage": 1,"type": "simple","prixnuit": 3200}, {"numchambre": 103,"etage": 1,"type": "simple","prixnuit": 3300}, {"numchambre": 201,"etage": 2,"type": "simple","prixnuit": 3200}, {"numchambre": 202,"etage": 2,"type": "simple","prixnuit": 3200}, {"numchambre": 203,"etage": 2,"type": "simple","prixnuit": 3300}, {"numchambre": 301,"etage": 3,"type": "simple","prixnuit": 3400}, {"numchambre": 302,"etage": 3,"type": "simple","prixnuit": 3400}, {"numchambre": 303,"etage": 3,"type": "simple","prixnuit": 3400}, {"numchambre": 401,"etage": 4,"type": "double","prixnuit": 4200}, {"numchambre": 402,"etage": 4,"type": "double","prixnuit": 4200} ]},
+{"numhotel":4,"nomhotel":"Saint George d'Alger","ville":"Alger","etoiles":5,"chambre":[ {"numchambre": 1, "etage": 0, "type": "autre", "prixnuit": 13000}, {"numchambre": 11, "etage": 1, "type": "simple", "prixnuit": 8400}, {"numchambre": 12, "etage": 1, "type": "simple", "prixnuit": 8400}, {"numchambre": 13, "etage": 1, "type": "simple", "prixnuit": 8600}, {"numchambre": 14, "etage": 1, "type": "simple", "prixnuit": 9000}, {"numchambre": 21, "etage": 2, "type": "double", "prixnuit": 12000}, {"numchambre": 22, "etage": 2, "type": "double", "prixnuit": 13000}, {"numchambre": 31, "etage": 3, "type": "triple", "prixnuit": 14500}, {"numchambre": 32, "etage": 3, "type": "simple", "prixnuit": 9000} ],
+"reservation":[{"numres": 3, "numclient": 14, "numchambre": 21, "Datearr": "05/12/2022", "Datedep": "05/13/2022"}],"evaluation":[{"numeval":2,"date":"11/04/2022","note":3,"numclient":1}]},
+{"numhotel":5,"nomhotel":"Ibis Alger Aéroport","ville":"Alger","etoiles":2,"chambre":[{"numchambre":1,"etage":0,"type":"triple","prixnuit":7000},{"numchambre":2,"etage":1,"type":"simple","prixnuit":4000},{"numchambre":3,"etage":1,"type":"double","prixnuit":5500}],
+"reservation":[{"numres": 4, "numclient": 1, "numchambre": 1, "Datearr": "05/11/2022", "Datedep": "05/15/2022"}, {"numres": 5, "numclient": 2, "numchambre": 2, "Datearr": "04/11/2022", "Datedep": "04/18/2022"}, {"numres": 6, "numclient": 6, "numchambre": 2, "Datearr": "04/05/2022", "Datedep": "04/06/2022"}, {"numres": 7, "numclient": 112, "numchambre": 1, "Datearr": "06/07/2022", "Datedep": "06/10/2022"}, {"numres": 8, "numclient": 35, "numchambre": 2, "Datearr": "05/17/2022", "Datedep": "05/23/2022"}],"evaluation":[{"numeval":3,"date":"05/04/2022","note":4,"numclient":6},{"numeval":9,"date":"04/05/2022","note":8,"numclient":2}]},
+{"numhotel":6,"nomhotel":"ElMountazah Annaba","ville":"Annaba","etoiles":3,"chambre":[{"numchambre": 1, "etage": 1, "type": "double", "prixnuit": 6000}, {"numchambre": 2, "etage": 1, "type": "double", "prixnuit": 6000}, {"numchambre": 3, "etage": 1, "type": "double", "prixnuit": 6000}, {"numchambre": 4, "etage": 2, "type": "double", "prixnuit": 6200}, {"numchambre": 5, "etage": 2, "type": "double", "prixnuit": 6200}, {"numchambre": 6, "etage": 2, "type": "double", "prixnuit": 6200}],
+"reservation":[{"numres":9,"numclient":13,"numchambre":2,"Datearr":"05/02/2022","Datedep":"05/10/2022"},{"numres":10,"numclient":14,"numchambre":2,"Datearr":"04/28/2022","Datedep":"05/01/2022"},{"numres":11,"numclient":23,"numchambre":1,"Datearr":"05/04/2022","Datedep":"05/09/2022"},{"numres":12,"numclient":35,"numchambre":2,"Datearr":"05/27/2022","Datedep":"06/02/2022"}],"evaluation":[{"numeval":4,"date":"27/04/2022","note":2,"numclient":13}]},
+{"numhotel":7,"nomhotel":"Hôtel Albert 1er","ville":"Alger","etoiles":3,"chambre":[ {"numchambre": 10, "etage": 1, "type": "simple", "prixnuit": 3100}, {"numchambre": 11, "etage": 1, "type": "simple", "prixnuit": 3100}, {"numchambre": 12, "etage": 1, "type": "double", "prixnuit": 4200}, {"numchambre": 20, "etage": 2, "type": "simple", "prixnuit": 3100}, {"numchambre": 21, "etage": 2, "type": "simple", "prixnuit": 3100}, {"numchambre": 22, "etage": 2, "type": "double", "prixnuit": 4200}, {"numchambre": 30, "etage": 3, "type": "simple", "prixnuit": 3100}, {"numchambre": 31, "etage": 3, "type": "simple", "prixnuit": 3100}, {"numchambre": 32, "etage": 3, "type": "double", "prixnuit": 4200}, {"numchambre": 40, "etage": 4, "type": "simple", "prixnuit": 2000}, {"numchambre": 41, "etage": 4, "type": "simple", "prixnuit": 2000}, {"numchambre": 42, "etage": 4, "type": "simple", "prixnuit": 2000}, {"numchambre": 43, "etage": 4, "type": "simple", "prixnuit": 1800}, {"numchambre": 44, "etage": 4, "type": "simple", "prixnuit": 1800} ],
+"reservation":[{"numres":13,"numclient":6,"numchambre":30,"Datearr":"04/27/2022","Datedep":"05/01/2022"}],"evaluation":[{"numeval":5,"date":"11/06/2022","note":3,"numclient":6}]},
+{"numhotel":8,"nomhotel":"Chems","ville":"Oran","etoiles":2,"chambre":[ {"numchambre": 100, "etage": 1, "type": "simple", "prixnuit": 2900}, {"numchambre": 101, "etage": 1, "type": "simple", "prixnuit": 2900}, {"numchambre": 102, "etage": 1, "type": "simple", "prixnuit": 2800}, {"numchambre": 200, "etage": 2, "type": "simple", "prixnuit": 2800}, {"numchambre": 201, "etage": 2, "type": "simple", "prixnuit": 2900}, {"numchambre": 202, "etage": 2, "type": "simple", "prixnuit": 2900}, {"numchambre": 300, "etage": 3, "type": "simple", "prixnuit": 3000}, {"numchambre": 301, "etage": 3, "type": "simple", "prixnuit": 3100}, {"numchambre": 302, "etage": 3, "type": "double", "prixnuit": 3700}, {"numchambre": 401, "etage": 4, "type": "double", "prixnuit": 3700}, {"numchambre": 402, "etage": 4, "type": "simple", "prixnuit": 2000} ],
+"reservation":[{"numres":14, "numclient":28, "numchambre":100, "Datearr":"04/30/2022", "Datedep":"05/03/2022"},{"numres":15, "numclient":16, "numchambre":301, "Datearr":"05/01/2022", "Datedep":"05/03/2022"},{"numres":16, "numclient":37, "numchambre":302, "Datearr":"05/12/2022", "Datedep":"05/10/2022"}],"evaluation":[{"numeval":6,"date":"02/05/2022","note":5,"numclient":28}]},
+{"numhotel":9,"nomhotel":"Colombe","ville":"Oran","etoiles":3,"chambre":[{"numchambre": 1, "etage": 1, "type": "simple", "prixnuit": 3100}, {"numchambre": 2, "etage": 1, "type": "simple", "prixnuit": 3100}, {"numchambre": 3, "etage": 1, "type": "simple", "prixnuit": 3200}, {"numchambre": 4, "etage": 2, "type": "simple", "prixnuit": 3200}, {"numchambre": 5, "etage": 2, "type": "simple", "prixnuit": 3200}, {"numchambre": 6, "etage": 2, "type": "double", "prixnuit": 4800}],
+"reservation":[{"numres":17,"numclient":28,"numchambre":3,"Datearr":"04/13/2022","Datedep":"04/14/2022"},{"numres":18,"numclient":20,"numchambre":2,"Datearr":"05/03/2022","Datedep":"05/20/2022"},{"numres":19,"numclient":15,"numchambre":3,"Datearr":"04/15/2022","Datedep":"04/20/2022"}]},
+{"numhotel":10,"nomhotel":"Mercure","ville":"Alger","etoiles":4,"chambre":[{"numchambre": 100, "etage": 1, "type": "double", "prixnuit": 9700}, {"numchambre": 101, "etage": 1, "type": "double", "prixnuit": 11000}, {"numchambre": 200, "etage": 2, "type": "double", "prixnuit": 9700}, {"numchambre": 201, "etage": 2, "type": "double", "prixnuit": 9700}, {"numchambre": 202, "etage": 2, "type": "triple", "prixnuit": 14100}],
+"reservation":[{"numres": 20, "numclient": 6, "numchambre": 100, "Datearr": "06/11/2022", "Datedep": "06/14/2022"}]},
+{"numhotel":11,"nomhotel":"Le Méridien","ville":"Oran","etoiles":5,"chambre":[ {"numchambre": 1, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 2, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 3, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 4, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 5, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 6, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 7, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 8, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 9, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 10, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 11, "etage": 0, "type": "simple", "prixnuit": 7800}, {"numchambre": 12, "etage": 0, "type": "double", "prixnuit": 9100}, {"numchambre": 13, "etage": 0, "type": "double", "prixnuit": 9100}, {"numchambre": 14, "etage": 1, "type": "double", "prixnuit": 9100},{"numchambre": 15, "etage": 1, "type": "double", "prixnuit": 9100}, {"numchambre": 16, "etage": 1, "type": "simple", "prixnuit": 7700}, {"numchambre": 17, "etage": 1, "type": "simple", "prixnuit": 7700}, {"numchambre": 18, "etage": 1, "type": "simple", "prixnuit": 7700}, {"numchambre": 19, "etage": 1, "type": "simple", "prixnuit": 7700}, {"numchambre": 20, "etage": 1, "type": "simple", "prixnuit": 7700}, {"numchambre": 21, "etage": 1, "type": "simple", "prixnuit": 7500}, {"numchambre": 22, "etage": 1, "type": "simple", "prixnuit": 7500}, {"numchambre": 23, "etage": 1, "type": "simple", "prixnuit": 7500}, {"numchambre": 24, "etage": 1, "type": "double", "prixnuit": 8000}, {"numchambre": 25, "etage": 1, "type": "double", "prixnuit": 8000}, {"numchambre": 26, "etage": 1, "type": "double", "prixnuit": 8000}, {"numchambre": 27, "etage": 2, "type": "triple", "prixnuit": 10900}, {"numchambre": 28, "etage": 2, "type": "triple", "prixnuit": 10900}, {"numchambre": 29, "etage": 2, "type": "simple", "prixnuit": 7200}, {"numchambre": 30, "etage": 2, "type": "simple", "prixnuit": 7200}, {"numchambre": 31, "etage": 2, "type": "simple", "prixnuit": 7200}, {"numchambre": 32, "etage": 2, "type": "simple", "prixnuit": 7200}  ],
+"reservation":[ {"numres": 21, "numclient": 12, "numchambre": 8, "Datearr": "05/09/2022", "Datedep": "05/10/2022"}, {"numres": 22, "numclient": 3, "numchambre": 9, "Datearr": "04/06/2022", "Datedep": "04/08/2022"}, {"numres": 23, "numclient": 7, "numchambre": 7, "Datearr": "05/07/2022", "Datedep": "05/12/2006"}, {"numres": 24, "numclient": 47, "numchambre": 20, "Datearr": "04/04/2022", "Datedep": "04/08/2022"}, {"numres": 25, "numclient": 44, "numchambre": 5, "Datearr": "04/07/2022", "Datedep": "05/07/2022"}, {"numres": 26, "numclient": 40, "numchambre": 9, "Datearr": "04/11/2022", "Datedep": "04/14/2022"}, {"numres": 27, "numclient": 22, "numchambre": 25, "Datearr": "04/04/2022", "Datedep": "04/05/2022"}, {"numres": 28, "numclient": 26, "numchambre": 25, "Datearr": "04/22/2022", "Datedep": "04/26/2022"}, {"numres": 29, "numclient": 29, "numchambre": 1, "Datearr": "04/04/2022", "Datedep": "04/08/2022"} ],"evaluation":[{"numeval":8,"date":"12/05/2022","note":7,"numclient":29}]},
+{"numhotel":12,"nomhotel":"Hôtel Sofitel","ville":"Alger","etoiles":5,"chambre":[{"numchambre": 101,"etage": 1,"type": "double","prixnuit": 13000}, {"numchambre": 102,"etage": 1,"type": "double","prixnuit": 13000}, {"numchambre": 103,"etage": 1,"type": "double","prixnuit": 13000}, {"numchambre": 104,"etage": 1,"type": "double","prixnuit": 13000}, {"numchambre": 105,"etage": 1,"type": "double","prixnuit": 13000}, {"numchambre": 106,"etage": 1,"type": "double","prixnuit": 14500}, {"numchambre": 107,"etage": 1,"type": "double","prixnuit": 14500}, {"numchambre": 201,"etage": 2,"type": "double","prixnuit": 14500}, {"numchambre": 202,"etage": 2,"type": "double","prixnuit": 14500}, {"numchambre": 203,"etage": 2,"type": "double","prixnuit": 11800}, {"numchambre": 204,"etage": 2,"type": "double","prixnuit": 11800}, {"numchambre": 205,"etage": 2,"type": "double","prixnuit": 13000}, {"numchambre": 206,"etage": 2,"type": "double","prixnuit": 14500}, {"numchambre": 207,"etage": 2,"type": "double","prixnuit": 14500}, {"numchambre": 301,"etage": 3,"type": "suite","prixnuit": 19500}, {"numchambre": 302,"etage": 3,"type": "suite","prixnuit": 19500}, {"numchambre": 303,"etage": 3,"type": "suite","prixnuit": 19500}, {"numchambre": 33,"etage": 3,"type": "simple","prixnuit": 5000}, {"numchambre": 208,"etage": 1,"type": "simple","prixnuit": 4500}],
+"reservation":[{"numres":30,"numclient":29,"numchambre":205,"Datearr":"05/04/2022","Datedep":"05/09/2022"},{"numres":31,"numclient":35,"numchambre":101,"Datearr":"04/04/2022","Datedep":"05/06/2022"},{"numres":32,"numclient":37,"numchambre":202,"Datearr":"05/11/2022","Datedep":"05/18/2022"},{"numres":33,"numclient":80,"numchambre":302,"Datearr":"05/07/2022","Datedep":"05/12/2022"}],"evaluation":[{"numeval":10,"date":"30/04/2022","note":1,"numclient":37}]}]
+
+{
+    "numhotel":"int",
+    "nomhotel": "string",
+    "ville": "string",
+    "etoiles": "int",
+    "chambre":[
+    {"numchambre": "int",
+    "etage": "int",
+    ....
+    },
+    ....
+    ],
+    "reservation": [
+    {"numres": "string",
+    "numclient" : "int",
+    "numchambre":"int ",
+    "Datearr": "Date",
+    "Datedep": "Date"
+   
+    },
+    ....
+    ],
+    "evaluation":[{"numeval":"int",
+    "date":"Date",
+    "note":"int",
+    "numclient":"int"},
+    .....]
+}
+{
+    "numclient": 'int',
+    "nomclient": "string",
+    "prenomclient": "string",
+    "email": "strinf"
+   }
+
+
+
+
+
+
+   {
+    "numhotel":"int",
+    "nomhotel": "string",
+    "ville": "string",
+    "etoiles": "int",
+    "chambre":[
+    {"numchambre": "int",
+    "etage": "int",
+    ....
+    },
+    ....
+    ],
+  
+    "evaluation":[{"numeval":"int",
+    "date":"Date",
+    "note":"int",
+    "numclient":"int"},
+    .....]
+}
+{
+    "numclient": 'int',
+    "nomclient": "string",
+    "prenomclient": "string",
+    "email": "strinf"
+   }
+{  "numres": "string",
+   "numclient" : "int",
+   "numchambre":"int ",
+   "numhotel":"int",
+   "Datearr": "Date",
+   "Datedep": "Date"
+  
+   }
